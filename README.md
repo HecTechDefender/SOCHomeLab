@@ -54,7 +54,30 @@ Go to the VM properties. In Network tab, activate 3 adapters. Making note of the
   <br/> This will be the GREEN CARD (internal network)
 <img src="https://i.imgur.com/1pk3nhj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<br />
+Create a new virtual machine <br/>
+<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
+<br />
+Create a new virtual machine <br/>
+<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Create a new virtual machine <br/>
+<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Create a new virtual machine <br/>
+<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Create a new virtual machine <br/>
+<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <!--
  ```diff
