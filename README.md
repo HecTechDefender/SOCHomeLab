@@ -71,7 +71,7 @@ This will be the ORANGE CARD (DMZ) <br/>
 
 <br />
        Select "install"       <br/>
-<img src="blob:https://imgur.com/1c422def-eabf-44c7-a1ad-d6d1e99ade26" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bZxCXLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
