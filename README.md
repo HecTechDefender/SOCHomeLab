@@ -65,8 +65,8 @@ This will be the ORANGE CARD (DMZ) <br/>
 <br />
 
 <br />
-             <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Install and accept the Copyright and Trademark Notices.     <br/>
+<img src="https://i.imgur.com/StEzyOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
