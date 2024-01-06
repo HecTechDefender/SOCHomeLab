@@ -55,28 +55,28 @@ Go to the VM properties. In Network tab, activate 3 adapters. Making note of the
 <img src="https://i.imgur.com/1pk3nhj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
-Create a new virtual machine <br/>
-<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This will be the ORANGE CARD (DMZ) <br/>
+<img src="https://i.imgur.com/l4x8wnB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
-Create a new virtual machine <br/>
-<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Launch the VM. It will ask you which ISO Virtualbox must mount on the VM, load the pfsense one. <br/>
+<img src="https://i.imgur.com/6BB7SE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
-Create a new virtual machine <br/>
-<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+             <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
-Create a new virtual machine <br/>
-<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+              <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
-Create a new virtual machine <br/>
-<img src="https://i.imgur.com/eK0RfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+               <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
