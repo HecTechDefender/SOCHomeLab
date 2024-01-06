@@ -70,12 +70,12 @@ This will be the ORANGE CARD (DMZ) <br/>
 <br />
 
 <br />
-              <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+       Select "install"       <br/>
+<img src="blob:https://imgur.com/1c422def-eabf-44c7-a1ad-d6d1e99ade26" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
-               <br/>
+        PROCEED HERE!!!! SELECT KEY MAP!!!!    <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
