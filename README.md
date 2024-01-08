@@ -75,15 +75,18 @@ This will be the ORANGE CARD (DMZ) <br/>
 <br />
 
 <br />
-        PROCEED HERE!!!! SELECT KEY MAP!!!!    <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ -Select your keymap
+-Use the default partition (we're in a lab, we just need a firewall)
+-Proceed with installation (no miror, no encrypt, nothing)
+-Wait until the installation is complete   <br/>
+<img src="https://i.imgur.com/kimxrh3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 
 <br />
-        PROCEED HERE!!!! SELECT KEY MAP!!!!    <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+        Do not load manual configuration    <br/>
+<img src="https://i.imgur.com/mOZznjg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
