@@ -52,25 +52,30 @@ Go to the VM properties. In Network tab, activate 3 adapters. Making note of the
 <br/>
 <br />
   <br/> This will be the GREEN CARD (internal network)
+ 
 <img src="https://i.imgur.com/1pk3nhj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 This will be the ORANGE CARD (DMZ) <br/>
+
 <img src="https://i.imgur.com/l4x8wnB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
  Launch the VM. It will ask you which ISO Virtualbox must mount on the VM, load the pfsense one. <br/>
+ 
 <img src="https://i.imgur.com/6BB7SE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
  Install and accept the Copyright and Trademark Notices.     <br/>
+ 
 <img src="https://i.imgur.com/StEzyOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
        Select "install"       <br/>
+       
 <img src="https://i.imgur.com/bZxCXLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
@@ -79,6 +84,7 @@ This will be the ORANGE CARD (DMZ) <br/>
 -Use the default partition (we're in a lab, we just need a firewall)
 -Proceed with installation (no miror, no encrypt, nothing)
 -Wait until the installation is complete   <br/>
+
 <img src="https://i.imgur.com/kimxrh3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
@@ -88,37 +94,69 @@ This will be the ORANGE CARD (DMZ) <br/>
         Do not load manual configuration    <br/>
 <img src="https://i.imgur.com/mOZznjg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+
+<br />
+        Reboot on the new system   <br/>
+<br />
+
+<br />
+
+<br />
+        Now, the server is powered on with the new system. Select 1 to configure interfaces.  <br/>
+<img src="https://i.imgur.com/Bdu73o7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br /> 
+<br />
 
 
 <br />
 
+
+
 <br />
-        PROCEED HERE!!!! SELECT KEY MAP!!!!    <br/>
+ We can see the MAC Addresses. Remember, we recommended to make a note of the MAC addresses. It is always helpful to have/know them. Select the RED INTERFACE for WAN. Select the GREEN INTERFACE for LAN. Select the last one (ORANGE) for DMZ. <br/>
+<img src="https://i.imgur.com/BdZkNGZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br /> 
+<br />
+
+<br />
+         <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
+  <br /> 
 <br />
 
 <br />
-        PROCEED HERE!!!! SELECT KEY MAP!!!!    <br/>
+         <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
+  <br /> 
 <br />
 
 <br />
-        PROCEED HERE!!!! SELECT KEY MAP!!!!    <br/>
+         <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br /> 
 <br />
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<br />
+         <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br /> 
+<br />
+
+<br />
+         <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br /> 
+<br />
+
+<br />
+         <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br /> 
+<br />
+
+
+
+
+
+
