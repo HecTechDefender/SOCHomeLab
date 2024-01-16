@@ -10,11 +10,6 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <h2>Utilities Used</h2>
 
 - <b>pfSense</b>
-- <b>Active Directory</b>
-- <b>Windows Workstation</b>
-- <b>Sysmon</b>
-- <b>CrowdSec</b>
-
 
 <h2>Environments Used </h2>
 
